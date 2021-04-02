@@ -1,0 +1,27 @@
+# Misc
+a.out
+GoLite/src/GoLite
+/src/golitec
+
+#when ting works on this from home desktop
+/src/golitec.exe
+src/golitec.exe.stackdump
+
+# Bison/Flex lexer/parser generated files
+lex.yy.c
+*.output
+*.tab.c
+*.tab.h
+*.o
+
+# test programs that were provided
+programs-solution/
+test-solution.sh
+
+#Su's LoginHistory from 206
+MyLoginHistory.txt
+
+.vscode/*
+!.vscode/launch.json
+
+repl_prog.tmp
